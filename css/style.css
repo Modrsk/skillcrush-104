@@ -30,6 +30,26 @@
 }
 /********/
 
+/*Monikam-advice*/
+.monikam-advice h1 {
+text-align: center;
+ color: #123456;
+  font-family: 'arial';
+  font-size: 45px;
+}
+.monikam-advice p {
+  color: #123456;
+  font-family: 'arial';
+  font-size: 14px;
+}
+
+.monikam-advice h4 {
+  color: #123456;
+  font-size: 32px;
+  padding: 16px;
+
+}
+
 
 /*daniel berryman's styles*/
 
